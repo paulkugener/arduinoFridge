@@ -19,4 +19,4 @@ Group partner: https://github.com/LeonardKoll
 
 ## Overview
 
-![overview](https://github.com/paulkugener/arduinoFridge/uebersicht.png)
+![overview](https://github.com/paulkugener/arduinoFridge/blob/master/uebersicht.png)
